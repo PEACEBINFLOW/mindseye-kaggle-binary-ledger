@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Data
+data/*.log
+data/*.tmp
+
+# Build artifacts
+dist/
