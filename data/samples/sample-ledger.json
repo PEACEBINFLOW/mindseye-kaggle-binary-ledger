@@ -1,0 +1,12 @@
+[
+  {
+    "eventId": "run_0001",
+    "blockId": "daily_2025-11-20",
+    "segmentId": "2025-11-20T15",
+    "source": "kaggle",
+    "signature": "sig_abc123",
+    "score": 0.8751,
+    "diff": null,
+    "timestamp": "2025-11-20T15:32:11Z"
+  }
+]
