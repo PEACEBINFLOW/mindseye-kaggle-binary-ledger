@@ -1,0 +1,10 @@
+{
+  "eventId": "string",
+  "blockId": "string",
+  "segmentId": "string",
+  "source": "kaggle",
+  "signature": "string",
+  "score": "number",
+  "diff": "object",
+  "timestamp": "string"
+}
